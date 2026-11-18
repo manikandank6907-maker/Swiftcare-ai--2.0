@@ -1,0 +1,8 @@
+{
+  "name": "SWIFTCARE AI",
+  "description": "Healthcare, Without the Wait. Global healthcare appointment discovery and booking-request platform connecting patients with earlier available care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
